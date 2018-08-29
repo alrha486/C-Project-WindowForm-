@@ -1,0 +1,72 @@
+<유의 사항>
+
+1. Database 테이블  : 총 4개의 테이블
+
+  - board 테이블 (게시판)
+  - doctor 테이블 (의사)
+  - member 테이블 (회원가입)
+  - reservation 테이블 (예약)
+
+2. Form의 수가 많습니다...(참고용으로 적겠습니다.) 
+
+  - form 1 : 메인화면
+  - form 2 : 예약화면
+  - form 3 : 의사 조회' 추가
+  - form 4 : 예약 조회
+  - form 5 : 의사 추가
+  - form 6 : 게시판 메인
+  - form 7 : 글쓰기
+  - form 8 : 글 디스플레이
+  - form 9 : 회원가입
+  - form 10 : 로그인
+  - form 11 : 시간표
+
+3. 의사조회 : 해당 의사 이름 클릭 시 사진도 같이 뜨는데 사진은 
+DB에 저장한 것이 아니기 때문에 바탕화면에 따로 사진이 있어야합니다.
+첨부하겠습니다.(의사 사진폴더 바탕화면에 두시면 됩니다!)
+
+4. mp3 플레이도 따로 mp3 파일이 있어야 하기 때문에 첨부하겠습니다.
+
+5. sql문
+
+use Hospital
+
+select *from board 
+create table board(
+title varchar(100),
+writer varchar(100),
+text_ varchar(8000),
+day_ varchar(100)
+)
+
+select *from doctor
+create table doctor(
+doc_name varchar(100),
+doc_age varchar(100),
+doc_add varchar(100),
+doc_ph varchar(100),
+doc_duty varchar(100)
+)
+
+select *from member
+create table member(
+m_name varchar(100),
+m_num varchar(100),
+m_add varchar(100),
+m_age varchar(100),
+m_ph  varchar(100),
+m_id varchar(100),
+m_pw varchar(100)
+)
+
+select *from reservation
+create table reservation(
+section varchar(100),
+name varchar(100),
+p_num varchar(100),
+p_add varchar(500),
+ph varchar(100),
+d_name varchar(100),
+r_date varchar(100),
+symptom varchar(500)
+)

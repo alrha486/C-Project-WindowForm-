@@ -1,0 +1,30 @@
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\bin\Debug\병원DB.exe.config
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\bin\Debug\병원DB.exe
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\bin\Debug\병원DB.pdb
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.csprojResolveAssemblyReference.cache
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form1.resources
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form2.resources
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form3.resources
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form4.resources
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Properties.Resources.resources
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.csproj.GenerateResource.Cache
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.exe
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.pdb
+c:\users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form5.resources
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\bin\Debug\Interop.WMPLib.dll
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\Interop.WMPLib.dll
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.csproj.ResolveComReference.cache
+C:\Users\diat\documents\visual studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form7.resources
+C:\Users\diat\Documents\Visual Studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.게시판.resources
+C:\Users\diat\Documents\Visual Studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form8.resources
+C:\Users\diat\Documents\Visual Studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form9.resources
+C:\Users\diat\Documents\Visual Studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form10.resources
+C:\Users\diat\Documents\Visual Studio 2015\Projects\병원DB\병원DB\obj\Debug\병원DB.Form11.resources
+C:\Users\diat\Desktop\병원DB\병원DB\bin\Debug\병원DB.exe.config
+C:\Users\diat\Desktop\병원DB\병원DB\obj\Debug\Interop.WMPLib.dll
+C:\Users\diat\Desktop\병원DB\병원DB\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\diat\Desktop\병원DB\병원DB\obj\Debug\병원DB.csproj.ResolveComReference.cache
+C:\Users\diat\Desktop\병원DB\병원DB\obj\Debug\병원DB.exe
+C:\Users\diat\Desktop\병원DB\병원DB\obj\Debug\병원DB.pdb
